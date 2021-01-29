@@ -1,3 +1,3 @@
-#1/bin/bash
+#l/bin/bash
 
 echo 'hola mundo'
